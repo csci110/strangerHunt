@@ -1,0 +1,3 @@
+[submodule "sgc"]
+	path = sgc
+	url = https://github.com/csci110/sgc.git
