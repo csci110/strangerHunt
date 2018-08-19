@@ -4,11 +4,12 @@
 
 Your instructor will provide a link to a GitHub Classroom invitation for this assignment. When you click the link, Classroom creates a new copy of this repo at github.com, with your username added to the end of the repo name.
 
-To work with your new repo in a c9 workspace, click the green `Clone or download` button at github.com, then copy the URL to your clipboard. In your c9 workspace, use a terminal to clone the repository.
+To work with your new repo in a c9 workspace, go to `Repositories` from your c9 dashboard and hit the `Clone to edit` button on the assignment repo.
 
-**CAUTION!** When the terminal prompt ends with the string `(master)`, you are in a folder that is already part of some git repository. Do **not** clone a repository into such folders, or you will create a tangled mess. In most cases, you want to run the clone command when your terminal prompt shows that you are in `~/workspace`.
+From your C9 workspace, right-click `setup.sh` in the c9 file tree, and choose `Run` from the menu. The script will fetch the submodules' code and you will then have:
 
-The clone command is: `git clone --recurse-submodules <PASTE URL>`, where `<PASTE URL>` is a placeholder for you repo's URL, which you can paste from your clipboard. 
+sgc, and
+a script, github-tools/sync.sh that will synchronize your c9 workspace and your GitHub repo. This is how you "turn in" work. You can run this script the same way you ran the setup script (right-click -> Run).
 
 ## How to complete the assignment
 
