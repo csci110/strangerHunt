@@ -13,7 +13,7 @@ a script, github-tools/sync.sh that will synchronize your c9 workspace and your 
 
 ## How to complete the assignment
 
-In your c9 workspace, you will implement the Stranger Hunt game by following instructions TBD.
+In your c9 workspace, you will implement the Stranger Hunt game by following the instructions [here](https://csci110.github.io/1_StrangerHunt.html).
 
 ## Submitting your work
 
